@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Caption here - Very Confusing
 
-![herme-t-crabb](https://octodex.github.com/images/herme-t-crabb.png)
+![Philip Dussard](https://avatars.githubusercontent.com/u/116550320?s=400&v=4)
 {: .center}
