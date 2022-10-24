@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Jesse Houwing 🚀
 
-![poptocat2](https://octodex.github.com/images/poptocat_v2.png)
+![jessehouwing](https://avatars.githubusercontent.com/u/4173387?v=4)
 {: .center}
