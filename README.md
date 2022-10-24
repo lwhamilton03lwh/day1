@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers 🚀
 
 - Class Date: October 24-25, 2022
 - Facilitator: @jessehouwing
