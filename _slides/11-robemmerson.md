@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Rob Emmerson
 
-![inflatocat](https://octodex.github.com/images/inflatocat.png)
+![meme](https://miro.medium.com/max/1180/0*BVlH61W52QhuwAxo.jpg)
 {: .center}
