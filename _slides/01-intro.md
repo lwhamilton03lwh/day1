@@ -3,6 +3,6 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Welcome!
+Welcome 🚀!
 
 Use the right arrow to begin!
